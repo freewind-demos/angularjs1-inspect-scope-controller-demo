@@ -1,7 +1,7 @@
 AngularJS1 Inspect Get Injector Demo
 ====================================
 
-How to inspect DOM to get angular injector.
+How to inspect DOM to get `$scope`.
 
 ```
 npm install

@@ -3,10 +3,10 @@
 </head>
 <body ng-app="app">
 <div>
-    <div ng-controller="HelloController">
+    <div id="hello" ng-controller="HelloController">
         <div>
             Hello, {{userName}}!
-            <button ng-click="inspectInjector()">Inspect Injector</button>
+            <button ng-click="inspectInjector()">Inspect $scope</button>
         </div>
         <hr/>
         <div>{{inspectMessage}}</div>
