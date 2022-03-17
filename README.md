@@ -9,5 +9,5 @@ How to inspect DOM to get `$scope` and controller.
 
 ```
 npm install
-npm run demo
+npm start
 ```
